@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyfrx",
-    version="0.0.4",
+    version="0.0.7",
     keywords=["forex", "finance", "conversion", "rates"],
 
     description="Forex conversion and rates.",
