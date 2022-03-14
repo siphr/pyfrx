@@ -1,3 +1,5 @@
+*zst
+*tar.gz
 *.git
 src
 pkg
